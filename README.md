@@ -24,13 +24,15 @@ The Air Landing Page empowers businesses by providing strategic and innovative s
 
 ## Additional Launch Instructions
 
+## Additional Launch Instructions
+
 **Fork original repository on GitHub**
 
 **Clone the forked repository:**
-`git clone https://github.com/yourGitHubUserName/your-repo-name.git`
+` git clone https://github.com/hsvirina/air-landing.git `
 
 **Navigate to the project directory:**
-`cd your-repo-name`
+`cd air-landing`
 
 **Install the necessary project dependencies:**
 `npm install`
